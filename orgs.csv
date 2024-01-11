@@ -1,46 +1,46 @@
-name,url,industry
-Accenture,http://www.accenture.com/us-en/pages/index.aspx,"Professional Services"
-"American Express",http://www.americanexpress.com,"Financial Technology"
-"Bloomberg L.P.",Http://www.bloomberg.com,"Financial Services"
-Boeing,http://www.boeing.com,Aerospace/Defense
-"Bristol-Myers Squibb",http://www.bms.com,"Drug Manufacturer - Major"
-"Cigna Group (The)",http://www.cigna.com,"Health Care Plans"
-"CNH Industrial",https://www.cnhindustrial.com,Machinery
-Colgate-Palmolive,http://www.colgate.com,"Personal Products"
-"Cornell University",http://www.cornell.edu,Education
-Corning,http://www.corning.com,"Diversified Electronics"
-"Daiichi Sankyo",https://www.daiichisankyo.com/,Pharmaceutical
-Dell,http://www.dell.com,Technology
-"E & J Gallo Winery",http://gallo.com/,"Wine Industry"
-"Estee Lauder",http://www.elcompanies.com,"Personal Products"
-"General Electric",http://www.ge.com,"Diversified Machinery"
-Hershey,http://www.thehersheycompany.com,Confectioners
-"Hormel Foods",www.hormelfoods.com,"Packaged Foods"
-IBM,http://www.ibm.com,"Information Technology Services"
-Intel,http://www.intel.com,Technology
-"Johnson & Johnson",http://www.jnj.com,"Drug Manufacturers - Major"
-"Johnson Controls",www.jci.com,"HVAC Equipment and Controls"
-"JPMorgan Chase & Co.",http://www.jpmorganchase.com,"Money Center Bank"
-KLA,https://www.kla.com,SemiConductors
-Manulife,https://www.manulife.com/,"Financial Services"
-McDonald's,www.mcdonalds.com,Restaurant
-Medtronic,http://www.medtronic.com,Healthcare
-Merck,http://www.merck.com,"Drug Manufacturers - Major"
-"Mobilization for Justice",https://mobilizationforjustice.org/,"Legal Services and Advocacy Organization"
-Novartis,https://www.novartis.com/,Pharmecauticals
-"Otis Worldwide",https://www.otis.com/en/us/,"Vertical Transport Systems"
-PepsiCo,http://www.pepsico.com,Beverages
-Polaris,http://www.polarisindustries.com,"Recreational Vehicles"
-"PPG Industries",https://www.ppg.com/,Chemicals
-"Procter & Gamble",http://www.pg.com,"Personal Products"
-"Prudential Financial",http://www.prudential.com,"Life Insurance"
-"R1 RCM",http://www.r1rcm.com,"Health Information Services"
-"S.C. Johnson",www.scjohnson.com,Manufacturing
-Shell,http://www.shell.com,"Major Integrated Oil and Gas"
-Terex,http://www.terex.com,"Farm and Construction Machinery"
-"TIAA Financial Services",https://www.tiaa.org/public/about-tiaa/why-tiaa/who-we-are,Finance
-"Trane Technologies",https://www.tranetechnologies.com,"Diversified Machinery"
-"UnitedHealth Group",http://www.unitedhealthgroup.com/,"Managed Health Care"
-Verizon,https://www.verizon.com,"Telecommunications Services"
-Workday,www.workday.com,Software
-XPO,https://www.xpo.com/,Trucking
+name,url,industry,img_url,img_alt
+Accenture,http://www.accenture.com/us-en/pages/index.aspx,"Professional Services",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=0fd362bf-b3a8-43d3-80ed-404204992151.jpg,"Accenture company logo"
+"American Express",http://www.americanexpress.com,"Financial Technology",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=834d1928-20ad-462d-9af5-faf30509c80f.jpg,"American Express company logo"
+"Bloomberg L.P.",Http://www.bloomberg.com,"Financial Services",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=215fff94-ecee-4c0b-ac98-bc382d60bcd4.jpg,"Bloomberg L.P. company logo"
+Boeing,http://www.boeing.com,Aerospace/Defense,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=ffa9cb4b-8a82-4ea2-9b34-a7e19ea43bfd.jpg,"Boeing company logo"
+"Bristol-Myers Squibb",http://www.bms.com,"Drug Manufacturer - Major",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=459b32e5-7be8-4971-9b08-aa4b1307fe91.png,"Bristol-Myers Squibb company logo"
+"Cigna Group (The)",http://www.cigna.com,"Health Care Plans",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=c8ee0735-0a99-4157-8914-b6cb14cf6113.png,"Cigna company logo"
+"CNH Industrial",https://www.cnhindustrial.com,Machinery,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=320d5ecd-0902-420e-a9e9-b9cbf0adac31.webp,"CNH Industrial Logo"
+Colgate-Palmolive,http://www.colgate.com,"Personal Products",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=92884fbf-ef3a-4be6-ab50-af4ac3904fe1.jpg,"Colgate-Palmolive company logo"
+"Cornell University",http://www.cornell.edu,Education,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=9db034b4-49cc-49f3-800a-736e1eb9fa7f.png,"Cornell University company logo"
+Corning,http://www.corning.com,"Diversified Electronics",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=9b2e0f96-6430-4faf-b408-6bc38be1f562.jfif,"Corning company logo"
+"Daiichi Sankyo",https://www.daiichisankyo.com/,Pharmaceutical,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=e957b19a-4d7b-4f3a-9d9f-8b7e399c841f.jpg,"Daiichi Sankyo Logo"
+Dell,http://www.dell.com,Technology,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=3a6e77dd-4007-4450-9117-9da1e0af9e34.png,"Dell company logo"
+"E & J Gallo Winery",http://gallo.com/,"Wine Industry",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=c0bc55ac-3742-4a9d-8fcf-74170d6d76b5.png,"E & J Gallo Winery company logo"
+"Estee Lauder",http://www.elcompanies.com,"Personal Products",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=a3d7cd08-516b-4424-9620-142afee7416d.jpg,"Estee Lauder company logo"
+"General Electric",http://www.ge.com,"Diversified Machinery",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=45eb778c-ce2e-406d-955d-684c3ec96f2a.png,"General Electric company logo"
+Hershey,http://www.thehersheycompany.com,Confectioners,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=71b5e303-ac72-46a6-bb5c-42218e054643.png,"Hershey company logo"
+"Hormel Foods",www.hormelfoods.com,"Packaged Foods",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=469643c8-8077-4f53-962d-f3b3af4541e5.jpg, 
+IBM,http://www.ibm.com,"Information Technology Services",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=87d8fecf-52d0-4328-bef2-e6423170e8a2.png,"IBM company logo"
+Intel,http://www.intel.com,Technology,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=736d02d9-53fc-4e05-b53a-19a54152626c.png,"Intel Logo"
+"Johnson & Johnson",http://www.jnj.com,"Drug Manufacturers - Major",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=cddbb093-6e25-44f3-af17-caebac0ad862.png,"Johnson & Johnson company logo"
+"Johnson Controls",www.jci.com,"HVAC Equipment and Controls",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=846c1c7c-ecb1-438f-b383-f3efad340729.jpg,"Johnson Controls company logo"
+"JPMorgan Chase & Co.",http://www.jpmorganchase.com,"Money Center Bank",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=2412530f-2a4a-488c-ae10-0cb2f42541c8.jpg,"JPMorgan Chase company logo"
+KLA,https://www.kla.com,SemiConductors,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=69e8deba-36d6-4345-810f-df1c49e4349e.jpg,"KLA Logo"
+Manulife,https://www.manulife.com/,"Financial Services",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=78d399f5-d7ca-43b2-b277-126ecc36cc0a.png,"Manulife Logo"
+McDonald's,www.mcdonalds.com,Restaurant,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=2abf5158-068a-49bb-89a6-3af659aba3ad.gif,McDonald
+Medtronic,http://www.medtronic.com,Healthcare,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=135e7a01-83ab-4135-b80c-228f8b32770e.png,"Medtronic company logo"
+Merck,http://www.merck.com,"Drug Manufacturers - Major",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=646046a0-2fb0-4a6f-8f10-5f1b09e6ce95.jpg,"Merck company logo"
+"Mobilization for Justice",https://mobilizationforjustice.org/,"Legal Services and Advocacy Organization",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=75507784-fcf9-4a54-8347-f69d2b101c31.jpg,"Mobilization for Justice Logo"
+Novartis,https://www.novartis.com/,Pharmecauticals,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=0234e945-9980-40b8-8afc-29d369c54182.jpg, 
+"Otis Worldwide",https://www.otis.com/en/us/,"Vertical Transport Systems",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=b4e95ee2-390b-439d-b5d0-b302cf4a3c6f.png,"Otis Worldwide Logo"
+PepsiCo,http://www.pepsico.com,Beverages,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=426426c2-4e58-4dff-8d6d-066731cfdcce.jpg,"PepsiCo company logo"
+Polaris,http://www.polarisindustries.com,"Recreational Vehicles",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=ad44cfb3-6f8f-4e57-8995-409063c58408.png,"Polaris company logo"
+"PPG Industries",https://www.ppg.com/,Chemicals,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=cfd2e0be-9f5a-432a-9fce-aedd07815afb.png,"PPG Logo"
+"Procter & Gamble",http://www.pg.com,"Personal Products",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=1c6acc91-2b03-41b5-bdd1-581f0291e195.webp,"Procter & Gamble company logo"
+"Prudential Financial",http://www.prudential.com,"Life Insurance",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=d0a7b892-bc3e-437f-8b84-9c451f7a401c.png,"Prudential Financial company logo"
+"R1 RCM",http://www.r1rcm.com,"Health Information Services",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=550cd0d2-3737-497e-9091-93b869a2c234.webp,"R1 RCM Company Logo"
+"S.C. Johnson",www.scjohnson.com,Manufacturing,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=98225098-63c7-4e4c-b79e-d2e8ead0aa66.png,"S.C. Johnson company logo"
+Shell,http://www.shell.com,"Major Integrated Oil and Gas",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=bde60660-507b-4635-b7e9-b0bcbe85a878.jpg,"Shell company logo"
+Terex,http://www.terex.com,"Farm and Construction Machinery",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=a8f3a483-8fdf-4089-866d-cdc233c0f9ad.jfif,"Terex company logo"
+"TIAA Financial Services",https://www.tiaa.org/public/about-tiaa/why-tiaa/who-we-are,Finance,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=59a04ed8-0ed2-41c6-b4df-597caad81673.jpg,"TIAA Logo"
+"Trane Technologies",https://www.tranetechnologies.com,"Diversified Machinery",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=c125466d-64c0-4d2d-abb2-e09722e06ee9.jpg,"Trane Technologies company logo"
+"UnitedHealth Group",http://www.unitedhealthgroup.com/,"Managed Health Care",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=6e2fe97f-c5b3-411e-8fed-89e85c60b0c3.png,"UnitedHealth Group company logo"
+Verizon,https://www.verizon.com,"Telecommunications Services",http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=02b9df6b-3d06-4e33-8596-eb3ae2e09c0f.jpg,"Verizon company logo"
+Workday,www.workday.com,Software,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=c8d5cc73-bc29-4540-bed8-2fa4a44995a1.png,"Workday company logo"
+XPO,https://www.xpo.com/,Trucking,http://est05.esalestrack.com/eSalesTrack/Content/Content.ashx?file=a811eef4-2e74-4e91-a908-116a1c991ca4.png,"XPO Logo"

@@ -4,6 +4,8 @@ $rows = [
     'name',
     'url',
     'industry',
+    'img_url',
+    'img_alt',
   ]
 ];
 
@@ -17,10 +19,14 @@ $orgs = $xpath->query("//html/body/div");
 foreach ($orgs as $org) {
   /** @var \DOMElement $link */
   $link = $org->getElementsByTagName('a')->item(0);
+  /** @var \DOMElement $img */
+  $img = $org->getElementsByTagName('img')->item(0);
   $rows[] = [
     preg_replace('/\s+/', ' ', $link->textContent),
     $link->getAttribute('href'),
     trim(preg_replace('/\s+/', ' ', str_replace($link->textContent, '', $org->textContent))),
+    $img->getAttribute('src'),
+    $img->getAttribute('alt'),
   ];
 }
 
