@@ -1,6 +1,7 @@
 <?php
 $rows = [
   [
+    'id',
     'name',
     'url',
     'industry',
@@ -16,12 +17,13 @@ $xpath = new DOMXpath($doc);
 $orgs = $xpath->query("//html/body/div");
 
 /** @var \DOMElement $org */
-foreach ($orgs as $org) {
+foreach ($orgs as $key => $org) {
   /** @var \DOMElement $link */
   $link = $org->getElementsByTagName('a')->item(0);
   /** @var \DOMElement $img */
   $img = $org->getElementsByTagName('img')->item(0);
   $rows[] = [
+    $key,
     preg_replace('/\s+/', ' ', $link->textContent),
     $link->getAttribute('href'),
     trim(preg_replace('/\s+/', ' ', str_replace($link->textContent, '', $org->textContent))),
